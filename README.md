@@ -25,10 +25,10 @@ There must be an option for administrators to control when users can or can not 
 ### Designing the Api 
 
 #### URL Routes
-- `http://appname/boards/user/image`
-- `http://appname/boards/user/title`
-- `http://appname/boards/user/comments`
-- `http://appname/boards/user/message`
+- `/boards/user/image`
+- `/boards/user/title`
+- `/boards/user/comments`
+- `/boards/user/message`
 
 #### Frameworks for building an API.
 - Flask
